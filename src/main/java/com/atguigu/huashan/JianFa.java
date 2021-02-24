@@ -5,5 +5,9 @@ public class JianFa {
         System.out.println("辟邪剑谱");
         System.out.println("辟邪剑谱");
         System.out.println("辟邪剑谱");
+        System.out.println("辟邪剑谱");
+        System.out.println("辟邪剑谱");
+        System.out.println("辟邪剑谱");
+        System.out.println("辟邪剑谱");
     }
 }
